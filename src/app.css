@@ -1,0 +1,11 @@
+form textarea{
+  resize: none;
+  margin: 1em auto;
+}
+.container{
+  margin: 5em auto 1em auto;
+}
+.alert{
+  margin-top : 1em;
+}
+

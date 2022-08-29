@@ -1,0 +1,1 @@
+This a simple CRUD (Create, Read,Update,Delete) app developed with Svelte. This app does not use any database to store its data as it is pretty simple. It uses localStorage instead.
